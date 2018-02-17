@@ -1,0 +1,5 @@
+1, Type make
+2, ./stringServer, it will comes out SERVER_ADDRESS and SERVER_PORT
+3, export SERVER_ADDRESS=xxxxx
+4, export SERVER_PORT=xxxxx
+5, type strings on client machine
